@@ -1,0 +1,23 @@
+syntax: glob
+
+Library/
+Temp/
+Assets/arigame.unity
+
+*.orig*
+*.sln
+*.userprefs
+*.csproj
+*.unityproj
+
+*.dll
+*.pyc
+*.swp
+*.orig
+*.old
+*~
+*.lnk
+Thumbs.db
+*.DS_Store
+*.metadata
+Icon?

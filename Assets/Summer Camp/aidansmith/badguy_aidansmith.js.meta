@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: e357e79d43a61a4439b264ae576683cc
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - sceneManager: {fileID: 100000, guid: e3b158411d9254846b98c1373d8efa36, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

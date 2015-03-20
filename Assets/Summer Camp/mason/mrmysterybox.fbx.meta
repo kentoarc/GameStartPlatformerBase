@@ -1,0 +1,227 @@
+fileFormatVersion: 2
+guid: 1987eec5261393c4c92a885982ab2f29
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: eye1
+    100002: eye2
+    100004: //RootNode
+    100006: pupil1
+    100008: pupil2
+    100010: q1
+    100012: q10
+    100014: q11
+    100016: q12
+    100018: q13
+    100020: q14
+    100022: q15
+    100024: q2
+    100026: q3
+    100028: q4
+    100030: q5
+    100032: q6
+    100034: q7
+    100036: q8
+    100038: q9
+    400000: eye1
+    400002: eye2
+    400004: //RootNode
+    400006: pupil1
+    400008: pupil2
+    400010: q1
+    400012: q10
+    400014: q11
+    400016: q12
+    400018: q13
+    400020: q14
+    400022: q15
+    400024: q2
+    400026: q3
+    400028: q4
+    400030: q5
+    400032: q6
+    400034: q7
+    400036: q8
+    400038: q9
+    2300000: eye1
+    2300002: eye2
+    2300004: //RootNode
+    2300006: pupil1
+    2300008: pupil2
+    2300010: q1
+    2300012: q10
+    2300014: q11
+    2300016: q12
+    2300018: q13
+    2300020: q14
+    2300022: q15
+    2300024: q2
+    2300026: q3
+    2300028: q4
+    2300030: q5
+    2300032: q6
+    2300034: q7
+    2300036: q8
+    2300038: q9
+    3300000: eye1
+    3300002: eye2
+    3300004: //RootNode
+    3300006: pupil1
+    3300008: pupil2
+    3300010: q1
+    3300012: q10
+    3300014: q11
+    3300016: q12
+    3300018: q13
+    3300020: q14
+    3300022: q15
+    3300024: q2
+    3300026: q3
+    3300028: q4
+    3300030: q5
+    3300032: q6
+    3300034: q7
+    3300036: q8
+    3300038: q9
+    4300000: body
+    4300002: q1
+    4300004: q2
+    4300006: q3
+    4300008: q4
+    4300010: q5
+    4300012: q6
+    4300014: q7
+    4300016: q8
+    4300018: q9
+    4300020: q10
+    4300022: q11
+    4300024: q12
+    4300026: q13
+    4300028: q14
+    4300030: q15
+    4300032: eye2
+    4300034: pupil2
+    4300036: eye1
+    4300038: pupil1
+    7400000: walk
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: walk
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 60
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: eye1
+        weight: 1
+      - path: eye1/pupil1
+        weight: 1
+      - path: eye2
+        weight: 1
+      - path: eye2/pupil2
+        weight: 1
+      - path: q1
+        weight: 1
+      - path: q2
+        weight: 1
+      - path: q3
+        weight: 1
+      - path: q4
+        weight: 1
+      - path: q5
+        weight: 1
+      - path: q6
+        weight: 1
+      - path: q7
+        weight: 1
+      - path: q8
+        weight: 1
+      - path: q9
+        weight: 1
+      - path: q10
+        weight: 1
+      - path: q11
+        weight: 1
+      - path: q12
+        weight: 1
+      - path: q13
+        weight: 1
+      - path: q14
+        weight: 1
+      - path: q15
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

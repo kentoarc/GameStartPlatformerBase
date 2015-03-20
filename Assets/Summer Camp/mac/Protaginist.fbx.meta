@@ -1,0 +1,122 @@
+fileFormatVersion: 2
+guid: e4197a0170e70d14dbf23c44c04412a3
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: bottomCap1
+    100002: nurbsCylinder1
+    100004: nurbsTorus1
+    100006: nurbsTorus2
+    100008: //RootNode
+    100010: pSphere1
+    100012: pSphere10
+    100014: pSphere2
+    100016: pSphere3
+    100018: pSphere4
+    100020: pSphere5
+    100022: pSphere6
+    100024: pSphere7
+    100026: pSphere8
+    100028: pSphere9
+    100030: topCap1
+    400000: bottomCap1
+    400002: nurbsCylinder1
+    400004: nurbsTorus1
+    400006: nurbsTorus2
+    400008: //RootNode
+    400010: pSphere1
+    400012: pSphere10
+    400014: pSphere2
+    400016: pSphere3
+    400018: pSphere4
+    400020: pSphere5
+    400022: pSphere6
+    400024: pSphere7
+    400026: pSphere8
+    400028: pSphere9
+    400030: topCap1
+    2300000: pSphere1
+    2300002: pSphere10
+    2300004: pSphere2
+    2300006: pSphere3
+    2300008: pSphere4
+    2300010: pSphere5
+    2300012: pSphere6
+    2300014: pSphere7
+    2300016: pSphere8
+    2300018: pSphere9
+    3300000: pSphere1
+    3300002: pSphere10
+    3300004: pSphere2
+    3300006: pSphere3
+    3300008: pSphere4
+    3300010: pSphere5
+    3300012: pSphere6
+    3300014: pSphere7
+    3300016: pSphere8
+    3300018: pSphere9
+    4300000: pSphere1
+    4300002: pSphere2
+    4300004: pSphere3
+    4300006: pSphere4
+    4300008: pSphere5
+    4300010: pSphere6
+    4300012: pSphere7
+    4300014: pSphere8
+    4300016: pSphere9
+    4300018: pSphere10
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
